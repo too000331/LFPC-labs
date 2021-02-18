@@ -18,4 +18,4 @@ P={
 After Chomsky classification this grammar is of Type 3 (Regular Grammar). Also it is a right-linear grammar 
 because it consists of a terminal symbol perceded by a single nonterminal symbol (at the right).
 
-For graph plot I used JFLAP:
+For graph plot I used JFLAP (just to represent).
